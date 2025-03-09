@@ -6,7 +6,7 @@ const Technologies = () => (
       <div className="border-t-2 border-gray-700 my-6"></div>
       <h2 className="text-5xl font-bold text-center mb-4">Technologies</h2>
       <p className="text-center text-gray-400 mb-8">
-        I've worked with a range of technologies in the web development world.
+        I&apos;ve worked with a range of technologies in the web development world.
         From Back-end to Design.
       </p>
       <div className="grid md:grid-cols-3 gap-8">

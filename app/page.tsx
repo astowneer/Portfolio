@@ -4,10 +4,8 @@ import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import RecentProjects from "@/components/RecentProjects";
 import Technologies from "@/components/Technologies";
-import { Spotlight } from "@/components/ui/Spotlight";
 import { Timeline } from "@/components/ui/Timeline";
 import { navItems } from "@/data";
-import Image from "next/image";
 
 export default function Home() {
   const data = [
@@ -19,7 +17,7 @@ export default function Home() {
             Exploring the IT World
           </p>
           <ul className="list-disc max-w-2xl">
-            <li>Started my journey at Cherkasy Computer Academy "Step", where I was introduced to Python, Arduino, Web Development, Computer Modeling, and Game Development.</li>
+            <li>Started my journey at Cherkasy Computer Academy &quot;Step&quot;, where I was introduced to Python, Arduino, Web Development, Computer Modeling, and Game Development.</li>
             <li>Discovered my passion for Web Development and began building small projects.</li>
           </ul>
         </div>
